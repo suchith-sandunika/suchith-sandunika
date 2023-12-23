@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Suchith Sandunika</h1>
+<h1 align="center">I'm Suchith Sandunika</h1>
 <h3 align="center">-A passionate software developer, problem solver and a creative thinker-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchith-sandunika&label=Profile%20views&color=0e75b6&style=flat" alt="suchith-sandunika" /> </p>
