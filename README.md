@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suchith-sandunika" alt="suchith-sandunika" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/suchith sandunika" target="blank"><img src="https://img.shields.io/twitter/follow/suchith sandunika?logo=twitter&style=for-the-badge" alt="esuchith" /></a> </p>
+<p align="left"> <a href="https://twitter.com/esuchith" target="blank"><img src="https://img.shields.io/twitter/follow/suchith sandunika?logo=twitter&style=for-the-badge" alt="suchith sandunika" /></a> </p>
 
 - 📫 How to reach me **esuchith@gmail.com**
 
