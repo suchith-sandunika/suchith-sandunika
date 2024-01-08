@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchith-sandunika&" alt="suchith-sandunika" /></p>
 
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=suchith-sandunika&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="suchith-sandunika"/></p>
+<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=suchith-sandunika&limit=5&theme=light&combine_all_yearly_contributions=true" alt="suchith-sandunika"/></p>
 
