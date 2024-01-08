@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=suchith-sandunika&show_icons=true&locale=en" alt="suchith-sandunika" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suchith-sandunika&" alt="suchith-sandunika" class="mt-5"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suchith-sandunika&" alt="suchith-sandunika" class="mt-8"/></p>
 
-<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=suchith-sandunika&limit=5&theme=light&combine_all_yearly_contributions=true" alt="suchith-sandunika" class="w-100"/></p>
+<p><img align="right" src="https://github-contributor-stats.vercel.app/api?username=suchith-sandunika&limit=5&theme=light&combine_all_yearly_contributions=true" alt="suchith-sandunika" class="mt-8"/></p>
 
