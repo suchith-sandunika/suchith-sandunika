@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suchith Sandunika Epa</h1>
-<h3 align="center">Fullstack Software Developer</h3>
+<h3 align="center">A Passionate Fullstack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchith-sandunika&label=Profile%20views&color=0e75b6&style=flat" alt="suchith-sandunika" /> </p>
 
@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="cemter" src="https://github-readme-stats.vercel.app/api?username=suchith-sandunika&show_icons=true&locale=en" alt="suchith-sandunika" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchith-sandunika&" alt="suchith-sandunika"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchith-sandunika&theme=light&hide_border=false&" alt="suchith-sandunika"/></p>
 
-<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=suchith-sandunika&limit=5&theme=light&combine_all_yearly_contributions=true" alt="suchith-sandunika"/></p>
+<p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=suchith-sandunika&limit=4&theme=light&combine_all_yearly_contributions=true" alt="suchith-sandunika"/></p>
 
