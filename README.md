@@ -22,9 +22,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suchith-sandunika&show_icons=true&locale=en&layout=compact" alt="suchith-sandunika"/></p>
 
-<p>&nbsp;<img align="cemter" src="https://github-readme-stats.vercel.app/api?username=suchith-sandunika&show_icons=true&locale=en" alt="suchith-sandunika" /></p>
-
 <p><img align="center" src="https://github-contributor-stats.vercel.app/api?username=suchith-sandunika&limit=4&theme=light&combine_all_yearly_contributions=true" alt="suchith-sandunika"/></p>
+
+<p>&nbsp;<img align="cemter" src="https://github-readme-stats.vercel.app/api?username=suchith-sandunika&show_icons=true&locale=en" alt="suchith-sandunika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchith-sandunika&theme=light&hide_border=false" alt="suchith-sandunika"/></p>
 
