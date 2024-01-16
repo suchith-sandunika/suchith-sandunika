@@ -27,8 +27,3 @@
 <p>&nbsp;<img align="cemter" src="https://github-readme-stats.vercel.app/api?username=suchith-sandunika&show_icons=true&locale=en" alt="suchith-sandunika" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suchith-sandunika&theme=light&hide_border=false" alt="suchith-sandunika"/></p>
-
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="suchith-sandunika"/></p>
-
-<p><img align="center" src="https://randommeme-five.vercel.app/" style="height: 400px;" alt="suchith-sandunika"/></p>
-
