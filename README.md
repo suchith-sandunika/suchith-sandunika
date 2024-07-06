@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suchith Sandunika</h1>
-<h3 align="center">A Passionate Fullstack Software Developer</h3>
+<h3 align="center">A Passionate Full-Stack Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchith-sandunika&label=Profile%20views&color=0e75b6&style=flat" alt="suchith-sandunika" /> </p>
 
