@@ -88,6 +88,9 @@
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> 
     </a>
+    <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/220px-JQuery-Logo.svg.png" alt="tailwind" width="30" height="30"/> 
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
     </a> 
@@ -120,6 +123,9 @@
     </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
+    </a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
     </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> 
