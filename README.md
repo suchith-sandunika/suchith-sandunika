@@ -89,7 +89,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> 
     </a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/JQuery-Logo.svg/220px-JQuery-Logo.svg.png" alt="tailwind" width="30" height="30"/> 
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eFomJUFua8tuqe8g.png" alt="tailwind" width="30" height="30"/> 
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
