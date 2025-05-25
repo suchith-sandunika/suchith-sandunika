@@ -89,7 +89,7 @@
         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> 
     </a>
     <a href="https://jquery.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eFomJUFua8tuqe8g.png" alt="tailwind" width="30" height="30"/> 
+        <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*eFomJUFua8tuqe8g.png" alt="jquery" width="30" height="30"/> 
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> 
@@ -121,11 +121,14 @@
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/> 
     </a>
+    <a href="https://neo4j.com" target="_blank" rel="noreferrer"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Neo4j-logo_color.png/800px-Neo4j-logo_color.png" alt="neo4j" width="30" height="30"/> 
+    </a>
     <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30"/> 
     </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="prisma" width="50" height="50"/> 
+    <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> 
+        <img src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_-330x400.png" alt="prisma" width="50" height="50"/> 
     </a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
