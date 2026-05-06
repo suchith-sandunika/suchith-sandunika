@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">🧑‍💻 Associate Software Engineer at Worky (Pvt) Ltd ...<br>🤖 Mobile , Web Development</p>
+<p align="left">🧑‍💻 Associate Software Engineer at Worky (Pvt) Ltd ...<br>🤖 Mobile , Web, Full Stack, Frontend, Backend Development</p>
 
 ###
 
